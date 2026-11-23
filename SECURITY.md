@@ -4,7 +4,7 @@ Two main ways to responsibly report security issues privately:
   ["Report a vulnerability"](https://github.com/spesmilo/electrum/security/advisories/new)
   flow, or
 2. you can send an email to the addresses listed below.
-  (Not for support. Support requests will be *ignored*.)
+  (Not for support. Support requests will be *ignored*.).
 
 If using email, please send any report to *all* emails listed here.
 
